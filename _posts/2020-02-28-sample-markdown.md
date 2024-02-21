@@ -1,7 +1,7 @@
 ---
 layout: post
-title: lorem ipsum 
-subtitle: lorem ipsum abra kadabra or whatever
+title: What is katana clash?
+subtitle: bleeding edge of roblox innovation
 author: Logan Stroud
 ---
 
