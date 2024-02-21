@@ -1,8 +1,8 @@
 ---
 layout: post
-title: lorem ipsum 
-subtitle: lorem ipsum abra kadabra or whatever
+title: Development status
+subtitle: Where katana clash is in development
 author: Logan Stroud
 ---
 
-place holder lol
+Katana clash is currently very early in development.Expect a public release in around 6ish months
