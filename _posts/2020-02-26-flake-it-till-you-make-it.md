@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lorem ipsum 
-subtitle: Where this project began
+subtitle: lorem ipsum abra kadabra or whatever
 author: Logan Stroud
 ---
 
