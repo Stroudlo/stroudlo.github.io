@@ -5,4 +5,4 @@ subtitle: bleeding edge of roblox innovation
 author: Logan Stroud
 ---
 
-With a good development team,fast design,and good features,we can promise a flawless and fun experience without compromises
+With a talanted development team,smart design,and cutting edge features,we can promise a flawless and fun experience without compromises
