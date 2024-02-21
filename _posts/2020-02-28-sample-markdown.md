@@ -5,4 +5,4 @@ subtitle: bleeding edge of roblox innovation
 author: Logan Stroud
 ---
 
-place holder lol
+With a good development team,fast design,and good features,we can promise a flawless experience,without compromises
