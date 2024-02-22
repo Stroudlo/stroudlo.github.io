@@ -4,9 +4,7 @@ title: About me
 subtitle: Hi
 ---
 
-My name is Logan Stroud. I have the following qualities:
-
-- Im good with tech
-- I code
+My name is Logan Stroud
+I am the main developer of katana clash
 
 
