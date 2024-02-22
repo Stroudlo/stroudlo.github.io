@@ -19,7 +19,7 @@
 .btn-social-icon.btn-lg{height:45px;width:45px;padding-left:0;padding-right:0}
 .btn-social-icon.btn-sm{height:30px;width:30px;padding-left:0;padding-right:0}
 .btn-social-icon.btn-xs{height:22px;width:22px;padding-left:0;padding-right:0}
-.btn-adn{color:#fff;background-color:#d87a68;border-color:rgba(0,0,0,0.2)}.btn-adn:focus,.btn-adn.focus{color:#fff;background-color:#ce563f;border-color:rgba(0,0,0,0.2)}
+.btn-adn{color:#ecd9d965;background-color:##5A5A5A;border-color:rgba(0,0,0,0.2)}.btn-adn:focus,.btn-adn.focus{color:#fff;background-color:#ce563f;border-color:rgba(0,0,0,0.2)}
 .btn-adn:hover{color:#fff;background-color:#ce563f;border-color:rgba(0,0,0,0.2)}
 .btn-adn:active,.btn-adn.active,.open>.dropdown-toggle.btn-adn{color:#fff;background-color:#ce563f;border-color:rgba(0,0,0,0.2)}.btn-adn:active:hover,.btn-adn.active:hover,.open>.dropdown-toggle.btn-adn:hover,.btn-adn:active:focus,.btn-adn.active:focus,.open>.dropdown-toggle.btn-adn:focus,.btn-adn:active.focus,.btn-adn.active.focus,.open>.dropdown-toggle.btn-adn.focus{color:#fff;background-color:#b94630;border-color:rgba(0,0,0,0.2)}
 .btn-adn:active,.btn-adn.active,.open>.dropdown-toggle.btn-adn{background-image:none}
